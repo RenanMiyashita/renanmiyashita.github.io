@@ -1,0 +1,48 @@
+h1, p {
+    font-family:monospace, sans-serif;
+}
+body {
+    background-color: whitesmoke;
+    font-family:monospace, sans-serif;
+}
+.habilities {
+    font-size: 16px;
+    font-weight: 400;
+}
+.font-color {
+    color: black;
+}
+.button {
+    background-color: rgb(15, 119, 15);
+    color: rgb(255, 255, 255);
+    padding: 15px 30px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.head h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+.image {
+    width: 150px;
+    float: left;
+    padding: 20px;
+    background-color: grey;
+    margin-right: 40px;
+    margin-left: 600px;
+}
+
+.about-me {
+    margin-bottom: 250px;
+    max-width: 70%;
+}
+
+.body {
+    text-align: center;
+    
+}
